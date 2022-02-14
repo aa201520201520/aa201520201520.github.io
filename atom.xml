@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa201520201520.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-02-14T08:56:36.765Z</updated>
+    <title>aa201520</title>
+    <updated>2022-02-14T09:08:58.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa201520201520.github.io"/>
     <link rel="self" href="https://aa201520201520.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>github建造的网站</subtitle>
     <logo>https://aa201520201520.github.io/images/avatar.png</logo>
     <icon>https://aa201520201520.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, aa201520</rights>
+    <entry>
+        <title type="html"><![CDATA[121]]></title>
+        <id>https://aa201520201520.github.io/post/121/</id>
+        <link href="https://aa201520201520.github.io/post/121/">
+        </link>
+        <updated>2022-02-14T09:06:37.000Z</updated>
+        <content type="html"><![CDATA[<p>121221</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://aa201520201520.github.io/post/hello-gridea/</id>
